@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.min.css"; */
+
+body {
+    background: #ffffff;
+    font-family: 'Lora', serif;
+    font-style: normal;
+    font-weight: 300;
+    overflow-x: hidden;
+  }
